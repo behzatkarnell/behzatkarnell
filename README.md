@@ -4,7 +4,7 @@
 
   <br>
 
-  <img src="./assets/pipeline.svg" alt="Network to Data to Insight pipeline" width="100%" />
+  <img src="./pipeline.svg" alt="Network to Data to Insight pipeline" width="100%" />
 
   <p align="center">
     <a href="https://www.linkedin.com/in/behzat-medeni-1bb278336/"><img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn"></a>
