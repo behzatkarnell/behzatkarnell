@@ -17,7 +17,7 @@
 
 ## Profile
 
-I am a Computer Engineering student at Fırat University, Faculty of Technology, Türkiye. In Spring 2026 I completed an Erasmus+ exchange period at Riga Technical University (RTU), Latvia.
+I am a Computer Engineering student at Fırat University, Faculty of Engineering, Türkiye. In Spring 2026 I completed an Erasmus+ exchange period at Riga Technical University (RTU), Latvia.
 
 My academic and professional foundation is in computer networks and information security. I currently focus on data engineering and database systems, with particular interest in query optimization, indexing strategies, data replication, and the design of reliable, secure data pipelines.
 
