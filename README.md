@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./header.svg" alt="Behzat Medeni, Department of Computer Engineering" width="100%" />
+<img src="https://raw.githubusercontent.com/behzatkarnell/behzatkarnell/main/header.svg" alt="Behzat Medeni, Department of Computer Engineering" width="100%" />
 
 <br>
 
@@ -36,7 +36,7 @@ My work is guided by three principles: that data in transit must be authenticate
 Modern distributed systems are exposed to adversaries at every layer of the protocol stack, which makes a single perimeter control insufficient. I study defense-in-depth architectures that combine stateful packet inspection at the network boundary, cryptographically protected transport (IPsec, TLS 1.3), and logical segmentation through virtual private clouds with private subnets. Access policy follows the principle of least privilege: access control lists and security groups default to deny, and the data tier is never directly reachable from untrusted networks.
 
 <div align="center">
-<img src="./network-security.svg" alt="Secure network architecture: encrypted tunnel, stateful firewall, VPC segmentation" width="100%" />
+<img src="https://raw.githubusercontent.com/behzatkarnell/behzatkarnell/main/network-security.svg" alt="Secure network architecture: encrypted tunnel, stateful firewall, VPC segmentation" width="100%" />
 </div>
 
 ---
@@ -46,7 +46,7 @@ Modern distributed systems are exposed to adversaries at every layer of the prot
 The cost of data retrieval is determined largely by access-path selection. In relational systems, the B+-tree remains the dominant index structure: a balanced, multiway search tree in which all records reside in a linked leaf level, giving point lookups in O(log<sub>b</sub> n) page accesses, where b is the branching factor, and efficient range scans through sequential leaf traversal. I am particularly interested in cost-based query planning, selectivity estimation from column statistics, and the trade-off between index maintenance overhead and read performance.
 
 <div align="center">
-<img src="./index-btree.svg" alt="B+-tree index traversal for a point lookup" width="100%" />
+<img src="https://raw.githubusercontent.com/behzatkarnell/behzatkarnell/main/index-btree.svg" alt="B+-tree index traversal for a point lookup" width="100%" />
 </div>
 
 ---
@@ -56,7 +56,7 @@ The cost of data retrieval is determined largely by access-path selection. In re
 Correctness under failure is the defining requirement of transactional storage. I study how write-ahead logging establishes durability and atomicity, how streaming replication propagates the log to standby nodes, and how synchronous quorum commit trades write latency for a bounded recovery point. Of particular interest are the isolation guarantees provided under concurrent access, and the position of a given configuration within the consistency, availability, and latency trade-off space.
 
 <div align="center">
-<img src="./replication.svg" alt="Write-ahead logging, streaming replication and quorum commit" width="100%" />
+<img src="https://raw.githubusercontent.com/behzatkarnell/behzatkarnell/main/replication.svg" alt="Write-ahead logging, streaming replication and quorum commit" width="100%" />
 </div>
 
 ---
@@ -66,7 +66,7 @@ Correctness under failure is the defining requirement of transactional storage. 
 A pipeline is a distributed system whose correctness depends on every stage. I approach ingestion, transformation, and serving as an end-to-end problem: sources must be authenticated and transported securely, transformations should be idempotent and deterministic so that failed runs can be replayed safely, and the serving layer must be modeled and indexed for its dominant query patterns.
 
 <div align="center">
-<img src="./pipeline.svg" alt="Network to data to insight pipeline" width="100%" />
+<img src="https://raw.githubusercontent.com/behzatkarnell/behzatkarnell/main/pipeline.svg" alt="Network to data to insight pipeline" width="100%" />
 </div>
 
 ---
@@ -106,8 +106,8 @@ A pipeline is a distributed system whose correctness depends on every stage. I a
 ## Repository Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=behzatmedeni&show_icons=true&theme=vue-dark&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=a9a9b3&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=behzatmedeni&layout=compact&theme=vue-dark&hide_border=true&title_color=00FF41&text_color=a9a9b3&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=behzatkarnell&show_icons=true&theme=vue-dark&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=a9a9b3&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=behzatkarnell&layout=compact&theme=vue-dark&hide_border=true&title_color=00FF41&text_color=a9a9b3&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 ---
