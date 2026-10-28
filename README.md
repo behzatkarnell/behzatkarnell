@@ -13,7 +13,7 @@
 
 ## Abstract
 
-I am a Computer Engineering student at Fırat University, Faculty of Technology (Türkiye), and completed an Erasmus+ exchange period at Riga Technical University (RTU), Latvia, in Spring 2026. My background in computer networks and information security informs a current research and engineering focus on data systems: the design of reliable, secure, and performant infrastructure for the storage, transformation, and retrieval of data at scale.
+I am a Computer Engineering student at Fırat University, Faculty of Engineering (Türkiye), and completed an Erasmus+ exchange period at Riga Technical University (RTU), Latvia, in Spring 2026. My background in computer networks and information security informs a current research and engineering focus on data systems: the design of reliable, secure, and performant infrastructure for the storage, transformation, and retrieval of data at scale.
 
 My work is guided by three principles: that data in transit must be authenticated and encrypted, that data at rest must be organized so that access cost grows sub-linearly with volume, and that persistent state must remain consistent under concurrency and partial failure.
 
