@@ -25,8 +25,8 @@ My work is guided by three principles: that data in transit must be authenticate
 |:--|:--|:--|
 | Fırat University, Faculty of Engineering | B.Sc., Computer Engineering | Ongoing |
 | Riga Technical University (RTU), Latvia | Erasmus+ Exchange Student | Spring 2026 |
-| Yardtech joint-stock company | Data Engineering Intern | sum 2026 |
-
+| Yardtech joint-stock company | Data Engineering Intern | Sum 2026 |
+| Microsoft | AI Intern | Sum 2026 |
 ---
 
 ## Research Interests
